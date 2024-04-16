@@ -7,8 +7,7 @@ The goal of the work was to design a website using React technology, along with 
 
 # Interface
 
-## Main page 
 <img width="485" alt="image" src="https://github.com/JakubWil/bachelor-project/assets/97703484/8f16b675-f50c-4698-b19b-a8b476865b47">
-## Second Page 
+
 <img width="513" alt="image" src="https://github.com/JakubWil/bachelor-project/assets/97703484/aabf0d2e-59f3-4858-a009-219d9910b8f3">
 
